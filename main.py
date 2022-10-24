@@ -23,3 +23,5 @@ def getAnswer( answerNumber):
 r = random.randint(1, 9) 
 fortune = getAnswer(r) 
 print(fortune)
+
+#Automate the Boring Stuff with Python
