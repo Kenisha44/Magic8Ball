@@ -24,4 +24,4 @@ r = random.randint(1, 9)
 fortune = getAnswer(r) 
 print(fortune)
 
-#Automate the Boring Stuff with Python
+#Automate the Boring Stuff with Python 10/23
